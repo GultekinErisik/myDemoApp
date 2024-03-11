@@ -1,1 +1,1 @@
-This project mean topic is writing tests and using GitHub travis and heroku
+https://app.travis-ci.com/GultekinErisik/myDemoApp.svg?token=MHWBAsyWHvxzdxC4L1uB&branch=master
