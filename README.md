@@ -1,1 +1,1 @@
-https://app.travis-ci.com/GultekinErisik/myDemoApp.svg?token=MHWBAsyWHvxzdxC4L1uB&branch=master
+This project is about using junit tests and github repository
