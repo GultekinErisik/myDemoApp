@@ -1,1 +1,1 @@
-This project is about using junit tests and github repository Demo site: https://quiet-cove-12345.herokuapp.com/
+[![Build Status](https://app.travis-ci.com/GultekinErisik/myDemoApp.svg?branch=master)](https://app.travis-ci.com/GultekinErisik/myDemoApp)
